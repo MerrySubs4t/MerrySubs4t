@@ -1,13 +1,16 @@
 ## 📆 About 
 ```lua
-local Name = Ice
-local Skill = Advanced Math / Decode / Designer / Developer
+[*] Name = Ice
+[*] Birthday =  Monday/09/03/2007
+[*] Working = Decode / Designer / Developer
+[*] Learning = Advance Math / Advanced English
+[*] Skill = Lua / Python / CSS / C / C++ / Node.js / Next.js / Java / HTML
 ```
 
 ## 🔗 Contact
 ```
 Discord : _ninesixtsoul
-Instagram: string.formath
+Instagram : string.formath
 ```
 
 
