@@ -1,7 +1,7 @@
 ## 📆 About 
 ```lua
-Name = Ice
-Skill = Back - End/Decode/Designer/Developer
+local Name = Ice
+local Skill = Back-End / Decode / Designer / Developer
 ```
 
 ## 🌟 Tech Stack  
