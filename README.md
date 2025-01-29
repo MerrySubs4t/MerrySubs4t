@@ -19,8 +19,6 @@ Instagram : string.formath
 
 ## 🤍 My Wife 
 ```
-Name = Gigi
-Age = ??
-Discord = ggigix
+Artist : w/ggigix
 ```
 ![1](https://cdn.discordapp.com/attachments/1221930856394919937/1334114423597568010/71_20241025014607.png?ex=679b5a61&is=679a08e1&hm=7f0ceef82f1fc061b9d56d0aa71f1eea7413986f5f50aa964e3de1d693ee2e98&)
