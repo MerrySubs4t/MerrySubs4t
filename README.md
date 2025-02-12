@@ -1,7 +1,6 @@
 ## 📆 About 
 ```lua
 [*] Name = Ice
-[*] Birthday =  Monday/09/03/2007
 [*] Working = Decode / Designer / Developer
 [*] Learning = Advance Math / Advanced English
 [*] Skill = Lua / Python / CSS / C / C++ / Node.js / Next.js / Java / HTML
