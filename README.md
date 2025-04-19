@@ -1,7 +1,7 @@
 ## 📆 About 
 ```lua
 [*] Name = Ice
-[*] Working = Decode / Designer / Developer
+[*] Working = Front-End / Designer / Developer
 [*] Learning = Advanced English
 [*] Skill = Lua / Python
 ```
